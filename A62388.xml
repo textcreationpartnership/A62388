@@ -1,0 +1,183 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The power of the Lords and Commons in Parliament in point of judicature briefly discours'd At the request of a worthy member of the House of Commons.</title>
+            <author>Scobell, Henry, d. 1660.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1690</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 16 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A62388</idno>
+            <idno type="STC">Wing S927A</idno>
+            <idno type="STC">ESTC R222133</idno>
+            <idno type="EEBO-CITATION">99833360</idno>
+            <idno type="PROQUEST">99833360</idno>
+            <idno type="VID">37836</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A62388)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 37836)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2197:02)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The power of the Lords and Commons in Parliament in point of judicature briefly discours'd At the request of a worthy member of the House of Commons.</title>
+                  <author>Scobell, Henry, d. 1660.</author>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[S.l. :</pubPlace>
+                  <date>1690?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signed at end: H.S. [i.e. Henry Scobell]</note>
+                  <note>Date of publication from Wing.</note>
+                  <note>Copy has print show-through.</note>
+                  <note>Reproduction of the original in the Henry E. Huntington Library and Art Gallery.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>England and Wales. --  Parliament. --  House of Commons --  Jurisdiction --  Early works to 1800.</term>
+               <term>Courts --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-01</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-02</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-04</date>
+            <label>Scott Lepisto</label>Sampled and proofread</change>
+         <change>
+            <date>2009-04</date>
+            <label>Scott Lepisto</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="letter">
+            <pb n="1" facs="tcp:37836:1" rendition="simple:additions"/>
+            <head>The Power OF THE <hi>LORDS and COMMONS</hi> IN PARLIAMENT In point of JUDICATURE briefly diſcours'd. <hi>At the Requeſt of a Worthy Member of the Houſe of</hi> Commons.</head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>TO give you a ſhort an account of your Deſires as I can; I muſt crave leave to lay you, as a Foundation, the <hi>Frame</hi> or <hi>Firſt Model</hi> of this <hi>State.</hi>
+            </p>
+            <p>When, after the <hi>Period</hi> of the <hi>Saxon Time, Harald</hi> had advanc'd himſelf in<g ref="char:EOLhyphen"/>to the Royal Seat; the <hi>Great</hi> men, (to whom but lately he was no more than <hi>Equal</hi> either in <hi>Fortune</hi> or <hi>Power</hi>) diſdaining this Act of Arrogancy and Ambition, called in <hi>William</hi> Duke of <hi>Normandy,</hi> (the moſt Active Prince of any in theſe <hi>Weſtern</hi> Parts, and renowned for the Victories that he had ſucceſsfully Atchieved againſt the <hi>French</hi> King, then the moſt Potent <hi>Monarch</hi> in <hi>Europe.</hi>)</p>
+            <p>This <hi>Duke</hi> led along with him to this work of <hi>Glory</hi> many of the <hi>Yonger</hi> Sons of the beſt <hi>Families</hi> of <hi>Normandy, Picardy</hi> and <hi>Flanders;</hi> who, as <hi>Voluntiers,</hi> accompany'd the undertaking of this <hi>Fortunate</hi> Man.</p>
+            <p>The <hi>
+                  <g ref="char:V">Ʋ</g>ſurper</hi> being Slain, and the <hi>Crown,</hi> by <hi>War,</hi> gained; to <gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap>cure <hi>Certain</hi> to his <hi>Po<g ref="char:EOLhyphen"/>ſterity</hi> what he had ſo <hi>Suddenly</hi> gotten, he ſhar'd out his <hi>Purchaſe</hi> retaining in Each <hi>Coun<g ref="char:EOLhyphen"/>ty</hi> a <hi>Portion,</hi> to ſupport the Soveraign <hi>Dignity,</hi> which was ſtiled <hi>Demenia Regni;</hi> (now the <hi>Ancient Demeſnes</hi>) and aſſigning to others his <hi>Adventures</hi> ſuch <hi>Proportions,</hi> as enga<g ref="char:EOLhyphen"/>ged to himſelf the <hi>Dependency</hi> of their <hi>Perſonal Service</hi> (ſuch Lands only ezcepted, as in <hi>Free Alms,</hi> were allotted to the <hi>Church</hi>) <hi>Theſe</hi> were termed <hi>Barones Regis</hi> or the <hi>Kings Immediate Free-holders;</hi> for the word <hi>Baro</hi> imported then no more.</p>
+            <p>As the <hi>King</hi> to <hi>Theſe,</hi> ſo <hi>Theſe</hi> to their <hi>Followers,</hi> Subdivided part of their <hi>Shares</hi> in<g ref="char:EOLhyphen"/>to <hi>Knights-Fees,</hi> and their <hi>Tenants</hi> were called, <hi>Barones Comitis,</hi> or the like; for we find, as in the <hi>King's Writ,</hi> ſo in <hi>Theirs, Baronibus ſuis al Francois &amp; Anglois,</hi> to their <hi>Barons,</hi> as well <hi>French</hi> as <hi>Engliſh;</hi> the Royal Gifts, for the moſt part, extending to whole <hi>Counties</hi> or <hi>Hundreds;</hi> an <hi>Earl</hi> being Lord of the <hi>One,</hi> and a <hi>Baron</hi> of the <hi>Infe<g ref="char:EOLhyphen"/>riour</hi> Donations to Lords of <hi>Townſhips</hi> or <hi>Mannours.</hi>
+            </p>
+            <p>And as the <hi>Land,</hi> ſo was alſo the <hi>Courſe</hi> of <hi>Judicature</hi> divided, even from the <hi>Mean<g ref="char:EOLhyphen"/>eſt</hi> to the <hi>Higheſt</hi> Portion; each <hi>Several</hi> had his <hi>Court</hi> of <hi>Law,</hi> preſerving ſtill the Cu<g ref="char:EOLhyphen"/>ſtom of our Anceſtors the <hi>Saxons,</hi> who <hi>jura per Pagos reddebant,</hi> diſtributed Juſtice throughout each Village: And theſe were termed <hi>Court Barons,</hi> or the <hi>Freeholders Court, (twelve</hi> uſually in number) who with the <hi>Thame,</hi> or Chief Lord, were <hi>Judges.</hi>
+            </p>
+            <pb n="2" facs="tcp:37836:2"/>
+            <p>The <hi>Hundred-Court</hi> was next, where the <hi>Hundredus,</hi> or <hi>Aldermanus</hi> (Lord of the <hi>Hundred</hi>) with the <hi>chief</hi> Lord of each <hi>Townſhip</hi> within their Limits, judged. God's People obſerved <hi>This</hi> Form; in the Publick <hi>Centureonis &amp; Decam Judicabant Plebem omni tempore.</hi> Hundreds and Decennaties adminiſtring Juſtice to the People at all times.</p>
+            <p>The <hi>County-Court,</hi> or <hi>Generale Placitum,</hi> was the next; <hi>This</hi> was to ſupply the De<g ref="char:EOLhyphen"/>fect, or remedy the Corruption of the <hi>Inferiour:</hi> For <hi>
+                  <g ref="char:V">Ʋ</g>bi Curioe</hi> Dominorum <hi>probantur defeciſſe, pertinet ad</hi> Vice Comitem Provinciarum; where the <hi>Hundred-Court</hi> was found <hi>Defective,</hi> matters were referr'd to the Lord of the <hi>County,</hi> The <hi>Judges</hi> here were <hi>Co<g ref="char:EOLhyphen"/>mites &amp; Barones Comitatus, qui Liberas, in hoc, Terras habeant; Earls</hi> and <hi>Barons</hi> of the <hi>County,</hi> that were Free-holders in the ſame.</p>
+            <p>The <hi>laſt</hi> and <hi>Supreme</hi> Court, and <hi>proper</hi> to <hi>our Queſtion;</hi> was <hi>Generale Placitum apud London,</hi> the <hi>General Council at</hi> London; <hi>
+                  <g ref="char:V">Ʋ</g>niverſalis Synodus,</hi> the <hi>
+                  <g ref="char:V">Ʋ</g>niverſal Synod,</hi> in <hi>Charters</hi> of the Conquerour, <hi>Capitalis Curiae,</hi> the <hi>Capital Court;</hi> by <hi>Glanvil, Magnum &amp; Commune Concilium coram Rege, &amp; Magnatibus ſuis;</hi> the Great and Common Council be<g ref="char:EOLhyphen"/>fore the <hi>King</hi> and his <hi>Nobles.</hi>
+            </p>
+            <p>In the <hi>Rolls</hi> of <hi>Henry</hi> the Third, <hi>It</hi> is not <hi>Stative,</hi> but <hi>ſummon'd</hi> by <hi>Proclamation. E<g ref="char:EOLhyphen"/>dicitur Generale Placitum apud</hi> London (ſays the Book of <hi>Abingdon</hi>) whither <hi>Duces, Prin<g ref="char:EOLhyphen"/>cipes, Satrapae, Rectores, &amp; Cauſidici ex omni parte conftuxerunt ad iſtam Curiam,</hi> ſaith <hi>Glanvil,</hi> the <hi>General Aſſembly</hi> was called at <hi>London;</hi> whether Dukes, Princes, Peers, Rectors, and Lawyers reſorted from all Quarters: And Cauſes were referr'd <hi>propter aliquam dubita<g ref="char:EOLhyphen"/>tionem quoe emergit in Comitatu cum Comitatus neſcit dijudicare;</hi> upon any Queſtion or Difficulty which the County Court was not able to ſolve. Thus did <hi>Ethelweld,</hi> Biſhop of <hi>Wincheſter,</hi> transfer his Suit againſt <hi>Le oſtine</hi> from the County <hi>ad Generale Placitum,</hi> or the <hi>General Aſſembly:</hi> In the time of King <hi>Etheldred,</hi> Queen <hi>Edgine</hi> againſt <hi>Goda,</hi> from the County appealed to King <hi>Etheldred</hi> at <hi>London, Congregatis Principibus &amp; Sa<g ref="char:EOLhyphen"/>pientibus Angliae;</hi> where the Princes and Wiſe Men of the Land were met together. A Suit between the Biſhops of <hi>Wincheſter</hi> and <hi>Durham,</hi> in the time of S. <hi>Edward, Coram Epiſcopis &amp; Princibus Regni in praeſentia Regis ventilata &amp; finita;</hi> was handled and deter<g ref="char:EOLhyphen"/>mined by the Biſhops and Princes of the Realm in the preſence of the King. In the 10th year of the Conquerour, <hi>Epiſcopi, Comites &amp; Barones Regni poteſtate adverſis Pro<g ref="char:EOLhyphen"/>vinciis, ad <g ref="char:V">Ʋ</g>niverſalem Synodum, pro cauſis audiendis &amp; tractandis, convocati;</hi> the Bi<g ref="char:EOLhyphen"/>ſhop, Earls and Barons of the Realm, <hi>&amp;c.</hi> being aſſembled at the Univerſal Council to hear and determine Controverſies, (ſays the Book of <hi>Weſtminſter.</hi>) And <hi>This</hi> continu<g ref="char:EOLhyphen"/>ed all along in the ſucceeding Kings Reign, until toward the end of <hi>Henry</hi> the Third.</p>
+            <p>AS this Great <hi>Court</hi> or <hi>Council,</hi> (conſiſting of the <hi>King</hi> and <hi>Barons</hi>) rul'd the im<g ref="char:EOLhyphen"/>portant Affairs of <hi>State,</hi> and controlled all Inferiour <hi>Courts;</hi> ſo were there certain <hi>Of<g ref="char:EOLhyphen"/>ficers,</hi> whoſe tranſcendant Power ſeem'd to be ſet for the circumſcribing the Execution of the <hi>Pinces will;</hi> as the <hi>Steward, Conſtable,</hi> and <hi>Marſhal,</hi> fix'd upon <hi>Families</hi> in <hi>Fee,</hi> for many Ages. They (as <hi>Tribunes</hi> of the <hi>People,</hi> or <hi>Ephori</hi> among the <hi>Lacedemonians</hi>) growing by unmanly Courage terrible to <hi>Monarchy,</hi> fell at the feet and mercy of the King, when the daring Earl of <hi>Leiceſter</hi> was ſlain at <hi>Ev<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſham.</hi>
+            </p>
+            <p>This <hi>Chance,</hi> and the dear <hi>Experience H.</hi> the Third himſelf had made at the <hi>Parli<g ref="char:EOLhyphen"/>ament</hi> at <hi>Oxford,</hi> in the fortieth year of his Reign; together with the <hi>Memory</hi> of the many ſtraits his <hi>Father</hi> was driven unto, eſpecially at <hi>Rumny-Mead</hi> near <hi>Stanes;</hi> brought <hi>this</hi> King to <hi>begin</hi> what his <hi>Succeſſors</hi> fortunately <hi>finiſhed;</hi> in <hi>leſſening</hi> the Strength and Power of his Great <hi>Lords.</hi> And this was effected by ſearching into the <hi>Regality</hi> they had uſurped over their <hi>peculiar Soveraigns,</hi> whereby they were found to be (as the Book of St. <hi>Albans</hi> termeth them) <hi>quot Domini, tot Tyranni,</hi> how many <hi>Lords,</hi> ſo many <hi>Tyrants;</hi> and by weakening that <hi>Influence</hi> and <hi>Sway</hi> which they carried in the <hi>Parliaments,</hi> by com<g ref="char:EOLhyphen"/>manding the <hi>Service</hi> of many <hi>Knights, Citizens,</hi> and <hi>Burgeſſes,</hi> to the <hi>Great Council.</hi>
+            </p>
+            <pb n="3" facs="tcp:37836:2"/>
+            <p>Now began the frequent ſending of <hi>Writs</hi> to the <hi>Commons;</hi> Their aſſent not only uſed in <hi>Money, Charge,</hi> and making <hi>Laws,</hi> (for, <hi>before,</hi> all <hi>Ordinances</hi> paſs'd by the <hi>King</hi> and <hi>Peers</hi>) by their Conſent alſo in <hi>Judgments</hi> of all Qualities whither <hi>Civil</hi> or <hi>Cri<g ref="char:EOLhyphen"/>minal.</hi> In proof whereof I will produce ſome ſew ſucceeding <hi>Preſidents</hi> out of <hi>Re<g ref="char:EOLhyphen"/>cord.</hi>
+            </p>
+            <p>When <hi>Adamor</hi> (that proud <hi>Prelate</hi> of <hi>Wincheſter,</hi>
+               <note place="margin">Lib. S. Al<g ref="char:EOLhyphen"/>ban. f l. <hi>20. 7.</hi> An. <hi>44.</hi> H. <hi>3.</hi>
+               </note> the Kings <hi>Half Brother</hi>) had ag<g ref="char:EOLhyphen"/>grieved the State by his formidable <hi>Inſolence;</hi> he was baniſhed by the joynt ſentence of the <hi>King,</hi> the <hi>Lords,</hi> and <hi>Commons.</hi> And this appeareth expreſly, by the <hi>Letter</hi> ſent to <hi>Pope Alexander</hi> the Fourth. who expoſtulated a <hi>Revocation</hi> of him from Exile becauſe he was a <hi>Church-man,</hi> and ſo not Subject to any Cenſure: In <hi>This</hi> the anſwer is <hi>Si Dominus Rex aut Majores Regni hoc vellent</hi> (meaning his <hi>Revocation</hi>) <hi>Communitas tamen, Ipſius In<g ref="char:EOLhyphen"/>greſſum in Angliam jam Nullatenus ſuſtineret;</hi> though the <hi>King</hi> and <hi>Lords</hi> ſhould conſent to his <hi>Revocation,</hi> yet would the <hi>Commons</hi> never allow of it. The <hi>Peers</hi> Subſcribe this <hi>Anſwer</hi> with their Names, and <hi>Petrus de Mountford vice Totius Communitatis,</hi> as <hi>Speaker,</hi> or <hi>Proctor</hi> of the <hi>Commons.</hi>
+            </p>
+            <p>For by <hi>that Stile</hi> Sir <hi>John Tiptoft (Prolocutor)</hi> affirmeth under his <hi>Arms</hi> the <hi>Deed</hi> of <hi>Entail</hi> of the <hi>Crowns</hi> by <hi>King Hen.</hi> the fourth,<note place="margin">Charta O<g ref="char:EOLhyphen"/>rig. ſub Si<g ref="char:EOLhyphen"/>gil. An. <hi>8.</hi> H. <hi>4.</hi>
+               </note> in the eighth year of his Reign, for <hi>all</hi> the <hi>Commons.</hi>
+            </p>
+            <p>The Baniſhment of the two <hi>Spencers</hi> in the fifteenth of <hi>Edw.</hi> 2d. <hi>Prelates, Comites, &amp; Barones, &amp; les autres Peeres de la Terre, &amp; Communes de Royalme,</hi> the Prelates, Earles, and Barons, and the reſt of the Peers of the Realm, and Commons of the Land, do give Conſent and Sentence to the Revocation and Reverſement of the <hi>Former</hi> Sentence; <hi>the Lords and Commons accord;</hi> and ſo it is expreſs'd in the <hi>Roll.</hi>
+            </p>
+            <p>In the firſt of <hi>Edw.</hi> the 3d. when <hi>Elizabeth</hi> the Widdow of Sir <hi>John de Burgo,</hi> com<g ref="char:EOLhyphen"/>plained in <hi>Parliament,</hi>
+               <note place="margin">Rot. parl. <hi>15.</hi> Ed. <hi>3,</hi> vel. <hi>2,</hi>
+               </note> that <hi>Hugh Spencer</hi> the Younger, <hi>Robert Boldock,</hi> and <hi>William Cliffe,</hi> his Inſtruments had by <hi>Dureſſe</hi> forc'd her to make a Writing to the King, whereby ſhe was deſpoiled of all her Inheritance; Sentence is given for her in theſe words; <hi>Pur ceo que avis eſt al Rveſques, Counts, &amp; Barons, &amp; autres Grandes, &amp; a tout</hi> Cominalte <hi>de la Terre, que le diſcript eſt fait contre Ley &amp; tout manere de Raiſon, ſi faiſt le dit Eſcript per agard del Parliament dampue alloquens al livre a la dit</hi> Elixabeth, Foraſmuch as it appeareth un<g ref="char:EOLhyphen"/>to the Biſhops, Earls, and Barons, and all the Comonalty of the Land, that the ſaid Writing was made againſt all Law and Reaſon, it is adjudged by Parlea<g ref="char:EOLhyphen"/>ment, <hi>&amp;c.</hi>
+            </p>
+            <p>In <hi>An</hi> 4 <hi>Ed.</hi> 3 it appeareth by a Letter to the <hi>Pope</hi> that to the Sentence given againſt the Earl of <hi>Kent</hi> the Commons were Parties as will as the Lords and Peers for the King directed their Porcedings in theſe words <hi>Comitibus Eagnatibus Baronibus &amp; aliis de</hi> Communitate <hi>dicti Regni ad parliementum illud congregatis injunximus ut ſuper his diſcernerent &amp; judicarent quod Rationi &amp; juſtitioe conveniret habere proe Oculis ſolum Deum qui eum concordi unanimi ſententia tanquam Reum criminis loe ſoe Majeſtatis mori adjudica<g ref="char:EOLhyphen"/>rent ejus ſententia &amp;c.</hi>
+               <note place="margin">Prela. Par<g ref="char:EOLhyphen"/>liam. <hi>1.</hi> Ed. <hi>3.</hi> Rot. <hi>11.</hi>
+               </note> We have commanded the Earls Peers Barons and others of the Commonalty of the ſaid Realm aſſembled in Parliament to determine in this matter according to Reaſon and Juſtice having only God before their Eyes; and by an unanimous conſent they have ſentenced him to death as guilty of <hi>High Treaſon</hi>
+            </p>
+            <p>When in the 50th year of <hi>Ed.</hi> 3. the Lords had pronounc'd the Sentence againſt <hi>Richard Lions</hi> otherwiſe than the Commons agreed,<note place="margin">Parl. An. <hi>5.</hi> Edw. <hi>3.</hi>
+               </note> they appealed to the King, and had Re<g ref="char:EOLhyphen"/>dreſs, and the Sentence entred to their Deſires.</p>
+            <p>When, in the firſt Year of <hi>Richard</hi> the Second, <hi>William Weſton,</hi> and <hi>John Jennings,</hi>
+               <pb n="4" facs="tcp:37836:3" rendition="simple:additions"/>were Arraigned in Parliament for ſurrendering certain <hi>Forts</hi> of the King's; the <hi>Com<g ref="char:EOLhyphen"/>mons</hi> were <hi>Parties</hi> to the Sentence againſt them given,<note place="margin">
+                  <hi>Parl. An.</hi> 1. <hi>Rich.</hi> 2.11.3.8. <hi>&amp;</hi> 3.5.</note> as appeareth by a <hi>Memorandum</hi> an<g ref="char:EOLhyphen"/>nexed to that <hi>Record,</hi> In the firſt of <hi>Hen.</hi> the Fourth, although the <hi>Commons</hi> referre, by <hi>Proteſtation,</hi> the pronouncing of the Sentence of Depoſition againſt King <hi>Richard</hi> the Second unto the Lords; yet are they equally Interreſſed in it; as appeareth by the <hi>Record:</hi> For there are made <hi>Proctors,</hi> or <hi>Commiſſioners,</hi> for the <hi>whole Parliament,</hi> one <hi>Biſhop,</hi> one <hi>Abbot,</hi> one <hi>Earl,</hi> one <hi>Baron,</hi> and two <hi>Knights !Gray</hi> and <hi>Erpinghan</hi>) for the <hi>Commons.</hi> And to infer that becauſe the <hi>Lords</hi> pronounc'd the Sentence, the point of <hi>Judgment</hi> ſhould be only <hi>Theirs,</hi> were as abſur'd, as to conclude that no <hi>Authority</hi> was veſted in any other <hi>Commiſſioner</hi> of <hi>Oyer</hi> and <hi>Terminer,</hi> than in the Perſon of that Man only that ſpeaketh the Sentence.</p>
+            <p>In the 2d. of <hi>Hen.</hi> 5. The Petition of the <hi>Commons</hi> importeth no leſs than a <hi>Right</hi> they had to <hi>Act</hi> and <hi>Aſſent</hi> to all things in <hi>Parliament;</hi> and ſo it is anſwer'd by the <hi>King.</hi> And had not the <hi>adjourned-Roll</hi> of the <hi>Higher-Houſe</hi> been left to the <hi>ſole</hi> Entry of the <hi>Clerk</hi> of the <hi>
+                  <g ref="char:V">Ʋ</g>pper-Houſe,</hi> (who, either out of neglect to obſerve due <hi>Form,</hi> or on ſet purpoſe to obſcure the <hi>Commons Right,</hi> and to flatter the <hi>Power</hi> of thoſe who he <hi>immediately</hi> ſerved, omitted them,) there would have been frequent <hi>Examples</hi> of <hi>all Times</hi> to clear this <hi>doubt,</hi> and to preſerve a juſt <hi>Intereſt</hi> to the <hi>Common-Wealth.</hi> And how conveniently it ſuits with <hi>Monarchy</hi> to maintain This <hi>Form,</hi> leſt others of that well-fram'd <hi>Body</hi> knit under one <hi>Head,</hi> ſhould ſwell too great and Monſtrous, may be ſeen with half an Eye; <hi>it</hi> being (in my Opinion) at leaſt equally Liable to ſuffer a freſh under an <hi>Ariſtocracy,</hi> as a <hi>Demo<g ref="char:EOLhyphen"/>cracy,</hi>
+            </p>
+            <closer>
+               <signed>
+                  <hi>SIR, I am Your moſt humble Servant.</hi> H. S.</signed>
+            </closer>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
